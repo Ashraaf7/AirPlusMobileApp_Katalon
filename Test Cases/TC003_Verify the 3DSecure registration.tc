@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC003_Verify the 3DSecure registration</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca0909e8-e756-4d0d-a31f-b47b0339ca51</testCaseGuid>
+</TestCaseEntity>

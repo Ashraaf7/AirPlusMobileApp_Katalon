@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC010_Verify the terms of service</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d5edc21e-914f-479f-9c8f-52200d1dd0c1</testCaseGuid>
+</TestCaseEntity>

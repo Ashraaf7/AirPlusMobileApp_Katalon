@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC006_Verify the tutorial page after login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2c3f5fe9-26e3-4108-ae00-c334712a7fde</testCaseGuid>
+</TestCaseEntity>
